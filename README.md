@@ -13,7 +13,7 @@ Este repositório contém um guia sobre como monitorar Máquinas Virtuais (VMs) 
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/monitoramento-azure-vm-guia.git
+    git clone https://github.com/GiulianoDantas/monitoramento-azure-vm-guia.git
     ```
 2.  **Navegue até o Diretório:**
     ```bash
